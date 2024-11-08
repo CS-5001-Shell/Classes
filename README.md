@@ -8,16 +8,16 @@ For this assignment, you will complete the following two classes:
 ### `Student`
 
 The `Student` class will have instance variables to keep track of the student's
-name (str), id (int), and grades (list[float]). The class will implement the
+name (`str`), id (`int`), and grades (`list[float]`). The class will implement the
 following methods that are described in the skeleton code in the Lab repository: 
 - `add_grade` 
 - `get_average`
 - `get_letter_grade`
 
 ### `Student_List`
-The `Student_List` class will have instance variables to keep track of the name
-of the course (str), and students (dict[int, Student]). The class will implement
-the following methods that are described in the skeleton code in the Lab
+The `Student_List` class will have instance variables to keep track of the name of the course (`str`), and students (`dict[int, Student]`). The class will
+implement the following methods that are described in the skeleton code in the
+Lab
 repository: 
 - `add_student`
 - `update_student`
