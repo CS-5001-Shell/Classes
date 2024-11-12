@@ -1,7 +1,7 @@
 from student import Student
 
 
-class Student_List:
+class StudentList:
     """
     Data about a class of students
     """
