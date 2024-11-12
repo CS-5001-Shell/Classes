@@ -14,7 +14,7 @@ following methods that are described in the skeleton code in the Lab repository:
 - `get_average`
 - `get_letter_grade`
 
-### `Student_List`
+### `StudentList`
 The `Student_List` class will have instance variables to keep track of the name of the course (`str`), and students (`dict[int, Student]`). The class will
 implement the following methods that are described in the skeleton code in the
 Lab
